@@ -10,8 +10,8 @@ h1 {
   text-align: center;
 }
 
-a{
-  
+#navlink{
+  background-color: gray;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -32,11 +32,11 @@ figcaption {
   
 }
 
-#featured-property{
+.para{
   
   text-align: center;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
   padding-top: 5px;
   
 }
